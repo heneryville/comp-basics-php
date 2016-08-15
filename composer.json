@@ -1,0 +1,12 @@
+{
+    "name": "mitchellharris/101",
+    "authors": [
+        {
+            "name": "Mitchell Harris",
+            "email": "mitchellkharris@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "5.5.*"
+    }
+}
